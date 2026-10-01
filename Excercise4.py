@@ -60,6 +60,7 @@ graph.add_conditional_edges(
          "subtraction_edge1":"subtractor_1"
      }
 )
+#the source is the actual node, the decider function is then used,along with the source and just the edges returned by the decider function names are used along with the destionatin node
 graph.add_edge("adder_1","router2")
 graph.add_edge("subtractor_1","router2")
 #second phase
