@@ -5,6 +5,7 @@ class AgentState(TypedDict):
     message: str
 
 def greeter(state:AgentState)->AgentState:
+    """ This function compliments the user on his LangGraph journey"""
     state['message']= state['message']+", you are doing an amazing job learning LangGraph!"
     return state
 
