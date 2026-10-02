@@ -1,0 +1,26 @@
+Subject: Request for GPU Access for Academic and Research Purposes - Gautam (MIS: 68)
+
+Respected Dean Sir,
+
+I hope this email finds you well. 
+
+I am writing to formally request access to the institute's GPU computing resources. As a B.Tech student in the Department of Computer Science and Engineering (CSE), I am currently engaged in advanced coursework and research projects focusing on Deep Learning, Machine Learning, and Neural Networks under the guidance of my faculty advisor.
+
+Currently, my work involves developing and training complex deep learning architectures—such as Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Transformer models—on large-scale datasets. These tasks require immense computational power, memory bandwidth, and parallel processing capabilities that standard CPUs cannot efficiently handle. Without adequate GPU support, training these models becomes a major bottleneck, severely limiting the scale and scope of my research.
+
+Having access to the institute's GPU infrastructure will allow me to:
+- Experiment with hyperparameter tuning and model optimization efficiently.
+- Train robust models within reasonable timeframes.
+- Successfully complete my ongoing research work and upcoming academic capstone projects.
+
+I assure you that the resources will be used responsibly, strictly for academic and research purposes, and in accordance with the institute's usage guidelines. 
+
+Thank you very much for your time, consideration, and continuous support in fostering a strong research and innovation culture at IIIT Pune.
+
+Yours sincerely,
+
+Gautam  
+MIS: 68 (112103068)  
+Department of Computer Science and Engineering (CSE)  
+IIIT Pune  
+Contact Number: 7798886108
